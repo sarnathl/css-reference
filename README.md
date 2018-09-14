@@ -1,4 +1,4 @@
-# [CSS Reference](https://cssreference.io): a free visual guide to the most popular CSS properties
+# [CSS Reference](https://cssreference.io): aaaaaaaaaaaaaa
 
 [![CSS Reference screenshot](https://raw.github.com/jgthms/css-reference/master/images/css-reference-share.png)](https://cssreference.io)
 
